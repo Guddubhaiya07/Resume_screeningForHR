@@ -1,4 +1,6 @@
 # Resume Screening with Python
+<img width="1399" height="832" alt="Screenshot 2025-07-19 150459" src="https://github.com/user-attachments/assets/af1c4cf4-259f-4a18-bc97-822cf50e41aa" />
+
 
 ## Overview
 This project involves the application of machine learning techniques for the screening of resumes. The goal is to categorize resumes into different job categories using natural language processing and classification algorithms.
@@ -88,13 +90,6 @@ I welcome contributions! If you have suggestions, improvements, or new features 
 ## License
 This project is under the MIT License.
 
-## Author
-Raghavendran S,  
-Aspiring Data Scientist  
-[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)  
-raghavendranhp@gmail.com  
 
-Thank You !  
-Happy Enjoying !
 
 
